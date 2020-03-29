@@ -50,8 +50,8 @@ const BannerComponent = ({ customizationOptions, onCustomizationChanged }) => {
                         <animated.img
                             key={key}
                             className={classes.image}
-                            src={item?.url}
-                            alt={item?.alt}
+                            src={'https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/cherry-blossom-facts-1578344148.jpg'}
+                           // alt={item?.alt}
                             style={props}
                         />
                     )
