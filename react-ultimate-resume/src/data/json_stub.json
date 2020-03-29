@@ -151,13 +151,9 @@
     }
   ],
   "interests": [
-    {
-      "name": "Burritos",
-      "gifUrl": "https://media.giphy.com/media/d8WjGORtSEWqc/giphy.gif"
-    },
-    {
-      "name": "Dogs",
-      "gifUrl": "https://media.giphy.com/media/3o85xsGXVuYh8lM3EQ/giphy.gif"
+     {
+      "name": "Cooking",
+      "gifUrl": "https://media.giphy.com/media/3o6Zt9OzrKNvFtVizm/giphy.gif"
     }
   ],
   "references": [
